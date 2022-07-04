@@ -6,7 +6,7 @@
 
 <label>
     Link:
-    <a href="https://pablofilipe.github.io/media_aritmetica_ponderada/menu.html" target="_blank">
+    <a href="https://pablofilipe.github.io/media_aritmetica_ponderada/index.html" target="_blank">
         Média Aritmética e Ponderada
     </a>.
 </label>
