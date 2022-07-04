@@ -16,5 +16,5 @@
 </p>
 
 <div align="center" dir="auto">
-    <img src="img/desafio_lets_code.png" alt="Desafio diário Let's Code">
+    <img src="img/desafio_diario.png" alt="Desafio diário Let's Code">
 </div>
