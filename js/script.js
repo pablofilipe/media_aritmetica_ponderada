@@ -21,7 +21,17 @@ function calcularMedia() {
         let notama2 = document.getElementById('notama2').value
 
         if ( notama1 === '' || notama2 === '' ) {
-            alert('Um ou mais valores não informados!')
+            Swal.fire({
+                icon: 'warning',
+                title: 'Ops...',
+                html: `Um ou mais valores não informados! <br> Verifique e tente novamente.`,
+                showClass: {
+                    popup: 'animate__animated animate__fadeInDown'
+                },
+                hideClass: {
+                    popup: 'animate__animated animate__fadeOutUp'
+                }
+            })
         } else {
             document.getElementById('resultado-calculo').style.display = 'block'
             let resultado = ( parseFloat(notama1) + parseFloat(notama2) ) / 2
@@ -40,7 +50,17 @@ function calcularMedia() {
         if ( (notamp1 === '' || pesomp1 === '') ||
             (notamp2 === '' || pesomp2 === '') ||
             (notamp3 === '' || pesomp3 === '') ) {
-            alert('Um ou mais valores não informados!')
+            Swal.fire({
+                icon: 'warning',
+                title: 'Ops...',
+                html: `Um ou mais valores não informados! <br> Verifique e tente novamente.`,
+                showClass: {
+                    popup: 'animate__animated animate__fadeInDown'
+                },
+                hideClass: {
+                    popup: 'animate__animated animate__fadeOutUp'
+                }
+            })
         } else {
             let n1 = ( parseFloat(notamp1) * parseFloat(pesomp1) )
             let n2 = ( parseFloat(notamp2) * parseFloat(pesomp2) )
