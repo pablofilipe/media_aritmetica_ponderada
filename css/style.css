@@ -20,7 +20,7 @@ body {
     display: none;
 }
 
-h1, #media-ponderada h2 {
+h1, #media-aritmetica h2, #media-ponderada h2 {
     background-color: blue;
     color: #FFFFFF !important;
     display: inline !important;
