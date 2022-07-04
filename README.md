@@ -4,7 +4,12 @@
     Primeiro desafio diário, Let's Code, resolvido. Consiste no desenvolvimento de uma aplicação para realizar o cálculo e exibir a média aritmética e ponderada de respectivos valores informados pelo o usuário.
 </p>
 
-##### Link: [Média Aritmética e Ponderada](https://pablofilipe.github.io/media_aritmetica_ponderada/menu.html).
+<label>
+    Link:
+    <a href="https://pablofilipe.github.io/media_aritmetica_ponderada/menu.html" target="_blank">
+        Média Aritmética e Ponderada
+    </a>.
+</label>
 
 <p align="center" dir="auto">
     &darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr; Desafio! &darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;
